@@ -37,10 +37,10 @@ These are languages, tools, and practices to which I have had exposure over the 
 * sketch ^†^
 
 ###Platforms
-* android
+* android ^†^
 * iOS
-* back-end
-* front-end
+* back-end ^†^
+* front-end ^†^
 
 ##Interests
 * Reading
