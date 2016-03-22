@@ -4,7 +4,7 @@
 * Github: [bigtiger02](https://github.com/bigtiger02 "bigtiger02")  
 
 ##Summary
-I am an experienced full-stack developer who has led development for multiple successful projects. I am passionate about building high quality apps and user interfaces with modern technologies.I strongly believed in technology and hope to make awesome things with great guys around the world oneday.Advocating for the open web and open software.
+I am an experienced full-stack developer who has led development for multiple successful projects. I am passionate about building high quality apps and user interfaces with modern technologies.I strongly believed in technology and hope to create awesome things with great guys around the world oneday.Advocating for the open web and open software.
 
 ##Specialties
 Familar with Java, JavaScript, HTML, and CSS,
