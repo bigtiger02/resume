@@ -29,7 +29,7 @@ These are  languages, tools, and practices to which I have had exposure over the
 * php ^†^
 * nodejs
 * swift^†^
-* javascript ^†^
+* javascript ^†^i
 * html/css ^†^
 
 ###Software & Tools
@@ -47,7 +47,7 @@ I've participated for more than 50+ projects since I was working. Unfortunately,
 ####1、Jianxinfang
 Jianxinfang is an app which is used to improve the ability of emotional management, prevent and treat depression, anxiety, inferiority and delay and so on. The app are both available on Android Market and Apple store. My works are mainly responsible for the architecture, backend and api. Here is the  [link](https://itunes.apple.com/us/app/jian-xin-fang/id1038894294?mt=8).
 ####2、Dianjin
-Dianjin is an app that helps shop owners to manage their shops better.It offer's lots of useful features to manage your shop. Actualy,this app is my first full stack app. All things, design, backend, iOS and android, are build by myself. You can explore it [here](https://itunes.apple.com/us/app/dian-jin/id1116609580?mt=8).
+Dianjin is an app that helps shop owners to manage their shops better.It offers lots of useful features to manage your shop. Actualy,this app is my first full stack app. All things, design, backend, iOS and android, are build by myself. You can explore it [here](https://itunes.apple.com/us/app/dian-jin/id1116609580?mt=8).
 ####3、Usense
 A smart badminton racket application, if you want to experience all the features of this free app, you need a USENSE badminton motion sensor. My works are mainly responsible for the architecture, backend, api and android. Here is the [link](https://itunes.apple.com/us/app/usense-badminton/id1005485466?mt=8).
 ##Interests
