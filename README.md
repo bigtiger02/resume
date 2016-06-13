@@ -22,26 +22,34 @@ After working in one place for nearly 3 years, I felt so tired and want to learn
 After graduated from school,I joined a small company called Foresight. I am mainly responsible for project management, development, demand analysis and progress of the control,creating apps,websites on tight deadlines for marquee clientele,assisting team members on challenging sections of code, performing code reviews, and coordinating releases. Both front-end and back-end were need to develop. 
 
 ##Skills & Expertise
-These are languages, tools, and practices to which I have had exposure over the past 4 years or so. Those things which enjoy routine usage in my daily work are denoted with a ^†^ symbol.
+These are  languages, tools, and practices to which I have had exposure over the past 4 years or so. Those things which enjoy routine usage in my daily work are denoted with a ^†^ symbol.
 
 ###Programming Languages
 * Java ^†^
 * php ^†^
 * nodejs
-* swift
+* swift^†^
 * javascript ^†^
 * html/css ^†^
 
 ###Software & Tools
-* docker
+* docker^†^
 * sketch ^†^
 
 ###Platforms
 * android ^†^
-* iOS
+* iOS^†^
 * back-end ^†^
 * front-end ^†^
 
+###Projects
+I've participated for more than 50+ projects since I was working. Unfortunately,many of them have been dead, because 90% of them are entrepreneurial projects. I am really pity for them, but that is life. Here are some of my recent projects,which are still alive now.
+####1、Jianxinfang
+Jianxinfang is an app which is used to improve the ability of emotional management, prevent and treat depression, anxiety, inferiority and delay and so on. The app are both available on Android Market and Apple store. My works are mainly responsible for the architecture, backend and api. Here is the  [link](https://itunes.apple.com/us/app/jian-xin-fang/id1038894294?mt=8).
+####2、Dianjin
+Dianjin is an app that helps shop owners to manage their shops better.It offer's lots of useful features to manage your shop. Actualy,this app is my first full stack app. All things, design, backend, iOS and android, are build by myself. You can explore it [here](https://itunes.apple.com/us/app/dian-jin/id1116609580?mt=8).
+####3、Usense
+A smart badminton racket application, if you want to experience all the features of this free app, you need a USENSE badminton motion sensor. My works are mainly responsible for the architecture, backend, api and android. Here is the [link](https://itunes.apple.com/us/app/usense-badminton/id1005485466?mt=8).
 ##Interests
 * Reading
 * Playing guitar
